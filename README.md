@@ -1,2 +1,2 @@
 # Raw-TO-DO
-This is the to do webapp created using Vanilla HTML,Css,Javascript
+This is the to do webapp created using Vanilla <strong>HTML</strong> <strong>Css<strong>, <strong>Javascript </strong>
